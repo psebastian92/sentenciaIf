@@ -24,7 +24,7 @@ public class ejemploVariosIf {
 		int mes = scanner.nextInt();
 
 		System.out.print("Ingrese el año: ");
-		int año = scanner.nextInt();
+		int ano = scanner.nextInt();
 
 		if (dia > 30) {
 			System.out.println("Los meses no tienen mas de 30 días");
@@ -32,12 +32,12 @@ public class ejemploVariosIf {
 		if (mes > 12) {
 			System.out.println("Los años no tienen mas de 12 meses");
 		}
-		if (año > 2025) {
+		if (ano > 2025) {
 			System.out.println("No se ha superado el año 2025");
 		}
 		
 		
-		System.out.println("Fecha: "+dia+"/"+mes+"/"+año);
+		System.out.println("Fecha: "+dia+"/"+mes+"/"+ano);
 
 	}
 }
