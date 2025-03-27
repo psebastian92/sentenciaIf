@@ -2,7 +2,7 @@ package Sentencia_If;
 
 import java.util.Scanner;
 
-public class ejemploVariosIf {
+public class C_EjemploVariosIf {
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);

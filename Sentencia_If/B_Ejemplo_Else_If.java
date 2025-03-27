@@ -2,7 +2,7 @@ package Sentencia_If;
 
 import java.util.Scanner;
 
-public class ejemplo_Else_If {
+public class B_Ejemplo_Else_If {
 	public static void main(String[] args) {
 		Scanner datos = new Scanner(System.in);
 		int mesDelAño;
