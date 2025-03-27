@@ -1,4 +1,4 @@
-package sentencia_if_else;
+package Sentencia_If;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package sentencia_if_else;
+package Sentencia_If;
 
 public class ejemploIfAnidados {
 	public static void main(String[] args) {
